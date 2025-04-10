@@ -148,6 +148,10 @@ The dataset contains customer reviews, trip details, and feedback features. It i
 - This solution can assist airlines in better targeting customers likely to book flights.
 
 
+## 🧑‍💻 Technologies & Tools Used
+
+[![My Skills](https://skillicons.dev/icons?i=py,vscode)](https://skillicons.dev)
+
 
 
 
